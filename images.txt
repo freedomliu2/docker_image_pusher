@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 aibotk/wechat-assistant
 snowdreamtech/frpc
+snowdreamtech/frpc:0.33
