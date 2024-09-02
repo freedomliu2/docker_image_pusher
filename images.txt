@@ -10,3 +10,4 @@ stilleshan/frpc
 linuxserver/calibre-web
 linuxserver/calibre
 teslamate/teslamate
+grafana/grafana
