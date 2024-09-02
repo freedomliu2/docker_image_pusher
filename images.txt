@@ -9,3 +9,4 @@ snowdreamtech/frpc
 stilleshan/frpc
 linuxserver/calibre-web
 linuxserver/calibre
+teslamate/teslamate
