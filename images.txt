@@ -9,5 +9,5 @@ snowdreamtech/frpc
 stilleshan/frpc
 linuxserver/calibre-web
 linuxserver/calibre
-teslamate/teslamate
-grafana/grafana
+teslamate/teslamate:edge
+grafana/grafana:main-ubuntu
